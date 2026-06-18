@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Shubham AI Bot",
-  description: "Write emails, LinkedIn posts, blogs and messages in your style.",
+  title: "Ameriprise - AI IAM Policy Copilot",
+  description:
+    "Analyze IAM roles, permissions, access controls, SoD conflicts, and compliance requirements using natural language.",
 };
 
 export default function RootLayout({
